@@ -12,7 +12,7 @@ MATLAB GPU Coder, CUDA, generative adversial networks
 ## Requirements
 MATLAB, MATLAB GPU Coder
 
-## Main features:
+## Main features
 - CUDA compiled code
 - speeding up generation phase of GANs
 
